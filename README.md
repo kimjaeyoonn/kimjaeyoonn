@@ -1,5 +1,5 @@
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer&text=JaeYoon'sGithub)
-<h3 align="center">I love @[HyunJiLee34] (https://github.com/HyunJiLee34)!</h3>
+<h3 align="center">I love @HyunJiLee34 !</h3>
 
 <div align=center><h1>📚 STACKS 📚</h1></div>
 
@@ -42,10 +42,8 @@
   
 </div>
 
-
-<div align=center><h1>👻 Contact 👻</h1></div>
-<div align=center>
-  <a href="https://instagram.com/kimjaeyoonn__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kimjaeyoonn__" height="30" width="40" />
+<div align=center><h1>💌 Contact 💌</h1></div>
+<div align=center><a href="https://instagram.com/kimjaeyoonn__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kimjaeyoonn__" height="30" width="40" /> 
   </a>
 </p>
 
