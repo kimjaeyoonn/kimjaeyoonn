@@ -59,11 +59,13 @@
 |2021.03~|광운대학교|데이터사이언스학과|제1전공|재학중|
 
 ### 🏆 대회 & 프로젝트 🏆 
-|연도|대회명|프로젝트|수상|링크|
+|연도|대회 & 프로젝트명|내용|수상|링크|
 |-|-|-|-|-|
 |2022|광운대 AI 해커톤||은상|<a href="https://github.com/kimjaeyoonn/KWU_AI_Hackathon" target="_blank">링크</a>|
 |2022|건설기계 오일 상태 분류 AI 경진대회||상위 9%|<a href="https://github.com/kimjaeyoonn/Construction_machinery_oil_Classification" target="_blank">링크</a>|
 |2022|K-인공지능 제조데이터 분석 경진대회|용해공정 과정의 프로세스 개선|||
+|2023|산학협력 프로젝트 (현대트랜시스)|자동차 부품 제조 현장의 데이터 불균형 해결|||
+
 
 
 
@@ -76,6 +78,7 @@
 |2022.02~|ML_Session|머신러닝 학습을 위한 정규 세션|<a href="https://cafe.naver.com/bitamin123" target="_blank">링크</a>|
 |2022.08~|DL_Session|딥러닝 학습을 위한 정규 세션|<a href="https://zhenying2.notion.site/b587cc98922249c38cafaadf42d4b0e3?v=8eed2c6e71244b5fbecaba37e4215c8e" target="_blank">링크</a>|
 |2022.10 ~|Conference|BITAmin의 꽃 '컨퍼런스'를 위한 조별 스터디|<a href="https://zhenying2.notion.site/9-BITAmin-2-_-cb427958f8fb4b07ab8842f4a77d00ad" target="_blank">링크</a>|
+
 
 
 <!--### 📜 자격증
