@@ -61,7 +61,7 @@
 ### 🏆 대회 & 프로젝트 🏆 
 |연도|대회 & 프로젝트명|내용|수상|링크|
 |-|-|-|-|-|
-|2022|광운대 AI 해커톤||은상|<a href="https://github.com/kimjaeyoonn/KWU_AI_Hackathon" target="_blank">링크</a>|
+|2022|광운대학교 AI 해커톤||은상|<a href="https://github.com/kimjaeyoonn/KWU_AI_Hackathon" target="_blank">링크</a>|
 |2022|건설기계 오일 상태 분류 AI 경진대회||상위 9%|<a href="https://github.com/kimjaeyoonn/Construction_machinery_oil_Classification" target="_blank">링크</a>|
 |2022|K-인공지능 제조데이터 분석 경진대회|용해공정 과정의 프로세스 개선|||
 |2023|산학협력 프로젝트 (현대트랜시스)|자동차 부품 제조 현장의 데이터 불균형 해결|||
