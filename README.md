@@ -1,5 +1,4 @@
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer&text=JaeYoon'sGithub)
-<h3 align="center">I love @HyunJiLee34 !</h3>
 
 <div align=center><h1>📚 STACKS 📚</h1></div>
 
