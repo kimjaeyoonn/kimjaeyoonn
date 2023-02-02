@@ -1,4 +1,4 @@
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer&text=HyunJi'sGithub)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer&text=Jaeyoon'sGithub)
 <br/> <br/>
   
 Hello i am **Jaeyoon Kim!**<br/> 
