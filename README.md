@@ -1,89 +1,85 @@
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer&text=JaeYoon'sGithub)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer&text=HyunJi'sGithub)
+<br/> <br/>
+  
+Hello i am **Jaeyoon Kim!**<br/> 
+I'm studying Data Science and AI.<br/>
+I’m currently learning **Time Series Data Analysis**<br/> 
+How to reach me: jaeyoon2505@gmail.com<br/> 
+⚡ Fun fact : tough time deciding on career.<br/> 
 
-<div align=center><h1>📚 STACKS 📚</h1></div>
 
+<div align=center><h2>📚 STACKS 📚</h2></div>
 <div align=center> 
-  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=white">
-  
-<!--   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">  -->
-  
-<!--   <img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">  -->
-  
-  <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
-  
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white">
-  
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=Pandas&logoColor=white">
-
+  <p>
+  <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white">
+  <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white"> <br/> 
+  <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=Pandas&logoColor=white">
+  <p>
 </div>
 
-
-<div align=center><h1>🛠 Tools 🛠</h1></div>
+<div align=center><h2>🛠 Tools 🛠</h2></div>
 
 <div align="center">
-  
-<!--   <img src="https://img.shields.io/badge/PyCharm-47A248?style=for-the-badge&logo=PyCharm&logoColor=white"/> -->
-  
-  <img src="https://img.shields.io/badge/VisualStudeioCode-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=for-the-badge&logo=Google Colab&logoColor=white"/>
-  
+  <img src="https://img.shields.io/badge/VisualStudeioCode-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white"/><br/> 
+  <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=flat-square&logo=Google Colab&logoColor=white"/>  
 </div>
 
-
-<div align=center><h1>💻 Portfolio 💻</h1></div>
+<div align=center><h2>💻 Portfolio 💻</h2></div>
 
 <div align="center">
-  <a href="https://kimjaeyoonn.tistory.com"><img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"/></a>
-  
-<!--   <a href="https://www.notion.so/Hyun-Ji-Lee-c98257799ab644db8169676336640416"><img src="https://img.shields.io/badge/Notion-FE5196?style=for-the-badge&logo=Notion&logoColor=white"/></a> -->
+  <a href="https://kimjaeyoonn.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white"/></a>
   
 </div>
 
-<div align=center><h1>💌 Contact 💌</h1></div>
-<div align=center><a href="https://instagram.com/kimjaeyoonn__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kimjaeyoonn__" height="30" width="40" /> 
-  </a>
+<div align=center><h2> 📬 Contact 📬 </h2></div>
+<div align=center><a href="https://instagram.com/kimjaeyoonn__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kimjaeyoonn__" height="30" width="40" /></a>
+
+  jaeyoon2505@gmail.com
 </p>
 
-<!-- <div align="center">
-<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=hyunji5031">
-</div> -->
-
-
 ### 📝 교육
-|기간|소속|전공|학위|비고|
+|기간|소속|학부|전공|비고|
 |-|-|-|-|-|
-|2018.03~|광운대학교|정보융합학부||재학중|
-|2021.03~|광운대학교|데이터사이언스학과|제1전공|재학중|
+|2018.03~|광운대학교|정보융합학부|데이터사이언스학과|재학중|
 
-### 🏆 대회 & 프로젝트 🏆 
-|연도|대회 & 프로젝트명|내용|수상|링크|
+### 🏆 대회
+|연도|대회명|프로젝트|수상|링크|
 |-|-|-|-|-|
-|2022|광운대학교 AI 해커톤||은상|<a href="https://github.com/kimjaeyoonn/KWU_AI_Hackathon" target="_blank">링크</a>|
-|2022|건설기계 오일 상태 분류 AI 경진대회||상위 9%|<a href="https://github.com/kimjaeyoonn/Construction_machinery_oil_Classification" target="_blank">링크</a>|
+|2022|광운대학교 AI 해커톤|Multi Label Classification(Computer Vision )|은상||
+|2022|건설기계 오일 상태 분류 AI 경진대회|Knowledge Distillation|상위 9%||
 |2022|K-인공지능 제조데이터 분석 경진대회|용해공정 과정의 프로세스 개선|||
-|2023|산학협력 프로젝트 (현대트랜시스)|자동차 부품 제조 현장의 데이터 불균형 해결|||
 
-
-
+### 💻 프로젝트
+|연도|keyword|프로젝트|링크|
+|-|-|-|-|
+|2022|산학협력 프로젝트|자동차 부품 제조 현장의 데이터 불균형 해결||
+|2022|BITAmin Conference 프로젝트|시계열 공정 데이터를 활용한 장비 이상 조기 탐지||
+|2022|이상탐지|사출품의 품질향상을 위한 이상 탐지 기반 불량 예측||
+|2022|프로세스 마이닝|은행 Log Data에 대한 프로세스 마이닝||
+|2022|학부 연구생|장애인 재활운동을 위한 AI 서비스 플랫폼||
+|2022|학부 연구생|이동 로봇의 정체 회피를 위한 ML 기반 경로 선정||
+|2022|텍스트 마이닝|오늘의 집 리뷰 데이터 토픽 모델링||
+|2021|안드로이드 개발|Git & Linux 명령어 사전||
 
 
 ### 🏫 학회 활동 
-[BITAmin](https://cafe.naver.com/bitamin123) <- About BITAmin
+[BITAmin] (https://github.com/BitaminOfficial) <- About BITAmin
 
-|연도|Session|활동 내용|링크|
-|-|-|-|-|
-|2022.02~|ML_Session|머신러닝 학습을 위한 정규 세션|<a href="https://cafe.naver.com/bitamin123" target="_blank">링크</a>|
-|2022.08~|DL_Session|딥러닝 학습을 위한 정규 세션|<a href="https://zhenying2.notion.site/b587cc98922249c38cafaadf42d4b0e3?v=8eed2c6e71244b5fbecaba37e4215c8e" target="_blank">링크</a>|
-|2022.10 ~|Conference|BITAmin의 꽃 '컨퍼런스'를 위한 조별 스터디|<a href="https://zhenying2.notion.site/9-BITAmin-2-_-cb427958f8fb4b07ab8842f4a77d00ad" target="_blank">링크</a>|
+|연도|Session|링크|
+|-|-|-|
+|2022.02~08|Deeplearning Session||
+|2022.08~11|Deeplearning Session||
+|2022.11~|Conference||
 
 
 
-<!--### 📜 자격증
-|취득 연도|자격증|주관|유효기간|
-|-|-|-|-|
-|2021|SQLD|한국데이터산업진흥원|영구|-->
+
+
+
 
 
 
