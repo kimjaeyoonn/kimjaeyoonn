@@ -55,19 +55,16 @@ How to reach me: jaeyoon2505@gmail.com<br/>
 ### 💻 프로젝트
 |연도|keyword|프로젝트|링크|
 |-|-|-|-|
-|2022|산학협력 프로젝트|자동차 부품 제조 현장의 데이터 불균형 해결||
-|2022|BITAmin Conference 프로젝트|시계열 공정 데이터를 활용한 장비 이상 조기 탐지|<a href="[https://github.com/kimjaeyoonn/ML_Project/tree/main/Anomaly%20Detection](https://github.com/kimjaeyoonn/BITAmin_Conference
-)" target="_blank">링크</a>|
+|2022|산학협력 프로젝트|자동차 부품 제조 현장의 데이터 불균형 해결|<a href="https://github.com/kimjaeyoonn/Industry-University_Coperation_Project" target="_blank">링크</a>|
+|2022|BITAmin Conference 프로젝트|시계열 공정 데이터를 활용한 장비 이상 조기 탐지|<a href="https://github.com/kimjaeyoonn/BITAmin_Conference" target="_blank">링크</a>|
 |2022|이상탐지|사출품의 품질향상을 위한 이상 탐지 기반 불량 예측|<a href="https://github.com/kimjaeyoonn/ML_Project/tree/main/Anomaly%20Detection" target="_blank">링크</a>|
-|2022|프로세스 마이닝|은행 Log Data에 대한 프로세스 마이닝||
-|2022|학부 연구생|장애인 재활운동을 위한 AI 서비스 플랫폼||
+|2022|프로세스 마이닝|은행 Log Data에 대한 프로세스 마이닝|<a href="https://kimjaeyoonn.tistory.com/19" target="_blank">링크</a>|
+|2022|학부 연구생|장애인 재활운동을 위한 AI 서비스 플랫폼|<a href="https://github.com/kimjaeyoonn/AI_Healthcare_Project" target="_blank">링크</a>|
 |2022|학부 연구생|이동 로봇의 정체 회피를 위한 ML 기반 경로 선정||
 |2022|텍스트 마이닝|오늘의 집 리뷰 데이터 토픽 모델링||
 |2021|안드로이드 개발|Git & Linux 명령어 사전||
-
-
 ### 🏫 학회 활동 
-[BITAmin] (https://github.com/BitaminOfficial) <- About BITAmin
+[BITAmin](https://github.com/BitaminOfficial) <- About BITAmin
 
 |연도|Session|링크|
 |-|-|-|
