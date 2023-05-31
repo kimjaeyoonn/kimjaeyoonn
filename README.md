@@ -56,7 +56,7 @@ How to reach me: jaeyoon2505@gmail.com<br/>
 |연도|keyword|프로젝트|링크|
 |-|-|-|-|
 |2022|산학협력 프로젝트|자동차 부품 제조 현장의 데이터 불균형 해결|<a href="https://github.com/kimjaeyoonn/Industry_University_Cooperation_Project" target="_blank">링크</a>|
-|2022|BITAmin Conference 프로젝트|시계열 공정 데이터를 활용한 장비 이상 조기 탐지|<a href="https://github.com/kimjaeyoonn/BITAmin_Conference" target="_blank">링크</a>|
+<!-- |2022|BITAmin Conference 프로젝트|시계열 공정 데이터를 활용한 장비 이상 조기 탐지|<a href="https://github.com/kimjaeyoonn/BITAmin_Conference" target="_blank">링크</a>| -->
 |2022|이상탐지|사출품의 품질향상을 위한 이상 탐지 기반 불량 예측|<a href="https://github.com/kimjaeyoonn/ML_Project/tree/main/Anomaly%20Detection" target="_blank">링크</a>|
 |2022|프로세스 마이닝|은행 Log Data에 대한 프로세스 마이닝|<a href="https://kimjaeyoonn.tistory.com/19" target="_blank">링크</a>|
 |2022|학부 연구생|장애인 재활운동을 위한 AI 서비스 플랫폼|<a href="https://github.com/kimjaeyoonn/AI_Healthcare_Project" target="_blank">링크</a>|
