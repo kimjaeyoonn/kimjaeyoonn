@@ -3,7 +3,7 @@
   
 Hello i am **Jaeyoon Kim!**<br/> 
 I'm studying Data Science and AI.<br/>
-I’m currently learning **Digital Twin**.<br/> 
+I’m currently learning **Multi Modal AI**.<br/> 
 How to reach me: jaeyoon2505@gmail.com<br/> 
 ⚡ Fun fact : tough time deciding on career.<br/> 
 
